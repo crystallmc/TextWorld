@@ -6,6 +6,8 @@ public class NewTextCode : MonoBehaviour {
 
 	void Start () {
 	
+
+
 	}
 
 	string  currentroom = "bedroom";
